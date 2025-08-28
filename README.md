@@ -1,2 +1,0 @@
-# Swiigy
-About orders
